@@ -8,6 +8,10 @@ The project is divided into two main parts:
 - **Frontend**: Located in the `project` directory, built with Angular
 - **Backend**: Located in the `CrudProject` directory, built with Spring Boot
 
+## Project Preview
+
+![image](https://github.com/user-attachments/assets/50036d51-c5c2-405f-8d71-2733ffea94ba)
+
 ## Features
 
 ### Backend (Spring Boot)
@@ -39,7 +43,7 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL)>
 cd CrudProject
 ```
 
@@ -119,6 +123,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
+Shaik Mohammad Musaveer - musaveershaikh@gmail.com
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name) 
+Project Link: [https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL](https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL) 
