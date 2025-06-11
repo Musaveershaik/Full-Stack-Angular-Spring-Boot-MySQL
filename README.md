@@ -123,6 +123,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Shaik Mohammad Musaveer - musaveershaikh@gmail.com
+Shaik Mohammad Musaveer - musaveershaikh43@gmail.com
 
 Project Link: [https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL](https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL) 
