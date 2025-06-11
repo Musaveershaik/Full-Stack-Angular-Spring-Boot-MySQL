@@ -10,7 +10,7 @@ This is a full-stack CRUD (Create, Read, Update, Delete) application built with 
 
 The project is divided into two main parts:
 - **Frontend**: Located in the `project` directory, built with Angular
-- **Backend**: Located in the `CrudProject` directory, built with Spring Boot
+- **Backend**: Located in a separate repository at [https://github.com/Musaveershaik/Java-Spring-Boot](https://github.com/Musaveershaik/Java-Spring-Boot)
 
 ## Features
 
@@ -41,10 +41,10 @@ Before running this project, make sure you have the following installed:
 
 ### Backend Setup
 
-1. Clone the repository:
+1. Clone the backend repository:
 ```bash
-git clone https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL
-cd CrudProject
+git clone https://github.com/Musaveershaik/Java-Spring-Boot
+cd Java-Spring-Boot
 ```
 
 2. Configure MySQL:
@@ -125,4 +125,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Shaik Mohammad Musaveer - musaveershaikh43@gmail.com
 
-Project Link: [https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL](https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL) 
+Project Links:
+- Frontend: [https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL](https://github.com/Musaveershaik/Full-Stack-Angular-Spring-Boot-MySQL)
+- Backend: [https://github.com/Musaveershaik/Java-Spring-Boot](https://github.com/Musaveershaik/Java-Spring-Boot) 
