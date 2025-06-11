@@ -2,15 +2,15 @@
 
 This is a full-stack CRUD (Create, Read, Update, Delete) application built with Angular (frontend) and Spring Boot (backend). The application demonstrates a complete implementation of CRUD operations using JPA Repository and MySQL database.
 
+## Project Preview
+
+![image](https://github.com/user-attachments/assets/50036d51-c5c2-405f-8d71-2733ffea94ba)
+
 ## Project Structure
 
 The project is divided into two main parts:
 - **Frontend**: Located in the `project` directory, built with Angular
 - **Backend**: Located in the `CrudProject` directory, built with Spring Boot
-
-## Project Preview
-
-![image](https://github.com/user-attachments/assets/50036d51-c5c2-405f-8d71-2733ffea94ba)
 
 ## Features
 
